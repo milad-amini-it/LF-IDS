@@ -18,7 +18,7 @@ The LF-IDS uses a Random Forest classifier with lightweight features (Packet Siz
     Clone the repository:
     bash
 
-git clone [Your Repository URL]
+git clone [github.com/milad-amini-it/LF-IDS]
 cd LF-IDS
 Run the script:
 bash
@@ -34,7 +34,7 @@ Data
 Network traffic is simulated using 20 Docker containers, generating 1000 packets with 15% attack traffic.
 License
 
-[free]
+[Free]
 Author
 
 [milad amini] - [milad.amini.it@gmail.com]
