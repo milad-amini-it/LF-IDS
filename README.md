@@ -1,4 +1,3 @@
-# papers-IDS-for-IOT
 # Lightweight Feature-Based Intrusion Detection System (LF-IDS)
 
 This repository contains the implementation of the LF-IDS model for IoT networks as described in the paper submitted to EPD-C 2025 Conference.
