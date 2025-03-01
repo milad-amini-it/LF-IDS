@@ -12,3 +12,29 @@ The LF-IDS uses a Random Forest classifier with lightweight features (Packet Siz
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
+
+  Usage
+
+    Clone the repository:
+    bash
+
+git clone [Your Repository URL]
+cd LF-IDS
+Run the script:
+bash
+
+    python lf_ids.py
+    Outputs:
+        lf_ids_model.pkl: Trained model
+        latency.png: Accuracy comparison plot
+        Console logs: Accuracy and classification report
+
+Data
+
+Network traffic is simulated using 20 Docker containers, generating 1000 packets with 15% attack traffic.
+License
+
+[free]
+Author
+
+[milad amini] - [milad.amini.it@gmail.com]
