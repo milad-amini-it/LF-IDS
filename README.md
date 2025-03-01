@@ -11,7 +11,7 @@ The LF-IDS uses a Random Forest classifier with lightweight features (Packet Siz
 - Install dependencies:
   ```bash**
   pip install -r requirements.txt
-**```**
+  ```
   Usage
 
     Clone the repository:
