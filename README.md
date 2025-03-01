@@ -18,8 +18,9 @@ The LF-IDS uses a Random Forest classifier with lightweight features (Packet Siz
     Clone the repository:
     bash
 
-git clone [github.com/milad-amini-it/LF-IDS]
+git clone https://github.com/milad-amini-it/LF-IDS
 cd LF-IDS
+
 Run the script:
 bash
 
