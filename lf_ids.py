@@ -5,7 +5,7 @@ Author: [Milad Amini]
 Date: March 01, 2025
 Description: Implementation of the LF-IDS model using Random Forest with lightweight features
              (Packet Size, Inter-arrival Time, Protocol) as described in the EPD-C 2025 paper.
-GitHub: [Your GitHub Repository URL]
+GitHub: [github.com/milad-amini-it/LF-IDS]
 """
 
 import numpy as np
