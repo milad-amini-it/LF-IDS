@@ -9,20 +9,21 @@ The LF-IDS uses a Random Forest classifier with lightweight features (Packet Siz
 - Python 3.7+
 - Docker installed and running (https://www.docker.com/get-started)
 - Install dependencies:
-  ```bash
+  ```bash**
   pip install -r requirements.txt
-
+**```**
   Usage
 
     Clone the repository:
- ```bash
+```bash**
 git clone https://github.com/milad-amini-it/LF-IDS
 cd LF-IDS
-
+```
 Run the script:
 ```bash
 
     python lf_ids.py
+```
     Outputs:
         lf_ids_model.pkl: Trained model
         latency.png: Accuracy comparison plot
